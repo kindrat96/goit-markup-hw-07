@@ -1,4 +1,4 @@
-/* Модальне вікно */
+/* Модельне вікно */
 
 .backdrop {
     position: fixed;
@@ -16,6 +16,8 @@
         pointer-events: none;
     }
 }
+
+/* Модель */
 
 .modal {
     position: absolute;
@@ -79,6 +81,7 @@
     }
 }
 
+/* Форма */
 
 .form-field {
     margin-top: 10px;
@@ -161,6 +164,7 @@
 }
 
 /* Чекбокс */
+
 .chekbox {
     margin-top: 20px;
     margin-bottom: 30px;
